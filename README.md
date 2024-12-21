@@ -86,7 +86,7 @@ This KNeighbors Regressor (KNN) model is an initial implementation, released for
 
 This project is open-source and available for public use under the MIT License. Contributions and feedback are welcome\!
 
-[image1]: <https://raw.githubusercontent.com/taleblou/KNN-Price-Prediction/refs/heads/main/Plot/KNN_BTC-USD.png>
-[image2]: <https://raw.githubusercontent.com/taleblou/KNN-Price-Prediction/refs/heads/main/Plot/KNN_GC%3DF.png>
-[image3]: <https://raw.githubusercontent.com/taleblou/KNN-Price-Prediction/refs/heads/main/Plot/KNN_EURUSD%3DX.png>
-[image4]: <https://raw.githubusercontent.com/taleblou/KNN-Price-Prediction/refs/heads/main/Plot/KNN_%5EGSPC.png>
+[image1]: <https://raw.githubusercontent.com/taleblou/KNeighborsRegressor-Price-Prediction/refs/heads/main/Plot/KNN_BTC-USD.png>
+[image2]: <https://raw.githubusercontent.com/taleblou/KNeighborsRegressor-Price-Prediction/refs/heads/main/Plot/KNN_GC%3DF.png>
+[image3]: <https://raw.githubusercontent.com/taleblou/KNeighborsRegressor-Price-Prediction/refs/heads/main/Plot/KNN_EURUSD%3DX.png>
+[image4]: <https://raw.githubusercontent.com/taleblou/KNeighborsRegressor-Price-Prediction/refs/heads/main/Plot/KNN_%5EGSPC.png>
